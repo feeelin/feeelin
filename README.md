@@ -6,10 +6,10 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feeelin&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feeelin&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
 
 
-<!--
+
 **feeelin/feeelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
