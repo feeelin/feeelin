@@ -1,15 +1,11 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<br>
-![Docker](https://img.shields.io/badge/docker-3670A0?style=for-the-badge&logo=Docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-3670A0?style=for-the-badge&logo=Jenkins&color=white)
+----
+📃 Article 
 
+**Authorization pitfalls: what does Keycloak cloak?** 
+
+[EN](https://pvs-studio.com/en/blog/posts/java/1142/) [RU](https://habr.com/ru/companies/pvs-studio/articles/828406/) 
+
+-----
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feeelin&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
 
 
