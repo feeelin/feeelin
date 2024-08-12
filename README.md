@@ -2,6 +2,8 @@
 
 📃 Article: **Authorization pitfalls: what does Keycloak cloak?** [EN](https://pvs-studio.com/en/blog/posts/java/1142/) [RU](https://habr.com/ru/companies/pvs-studio/articles/828406/) 
 
+📃 Article: **Get me two! PVS-Studio plugin update for SonarQube** [EN](https://pvs-studio.com/en/blog/posts/1152/) [RU](https://habr.com/ru/companies/pvs-studio/articles/835382/)
+
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feeelin&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
 
 
