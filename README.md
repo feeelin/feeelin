@@ -1,4 +1,6 @@
-# Latest updates
+<h1 align="center">
+  Latest updates
+</h1>
 
 📃 Article: **Clean code: blessing or curse? Act I. Confrontation** [EN](https://pvs-studio.com/en/blog/posts/1157/) [RU](https://habr.com/ru/companies/pvs-studio/articles/838840/)
 
