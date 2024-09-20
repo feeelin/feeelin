@@ -4,6 +4,8 @@
 
 📃 Article: **Clean code: blessing or curse? Act I. Confrontation** [EN](https://pvs-studio.com/en/blog/posts/1157/) [RU](https://habr.com/ru/companies/pvs-studio/articles/838840/)
 
+📃 Article: **Clean code: blessing or curse? Act II. Compromise** [EN](https://pvs-studio.com/en/blog/posts/1162/) [RU](https://habr.com/ru/companies/pvs-studio/articles/844794/)
+
 📃 Article: **Authorization pitfalls: what does Keycloak cloak?** [EN](https://pvs-studio.com/en/blog/posts/java/1142/) [RU](https://habr.com/ru/companies/pvs-studio/articles/828406/) 
 
 📃 Article: **Get me two! PVS-Studio plugin update for SonarQube** [EN](https://pvs-studio.com/en/blog/posts/1152/) [RU](https://habr.com/ru/companies/pvs-studio/articles/835382/)
