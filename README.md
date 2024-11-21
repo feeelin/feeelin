@@ -1,6 +1,7 @@
 <h1>
  🔥 Latest updates 
 </h1>
+📃 Article: **History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++** [EN](https://pvs-studio.com/en/blog/posts/cpp/1189/) [RU](https://habr.com/ru/companies/pvs-studio/articles/860206/)
 
 📃 Article: **Clean code: blessing or curse? Act I. Confrontation** [EN](https://pvs-studio.com/en/blog/posts/1157/) [RU](https://habr.com/ru/companies/pvs-studio/articles/838840/)
 
