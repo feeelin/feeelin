@@ -9,7 +9,7 @@
  📃 Article series: <b>Clean code: blessing or curse?</b><br>
  <ul>
   <li><b>Act I. Confrontation</b> <a href="https://pvs-studio.com/en/blog/posts/1157/">Read</a>
-  <li><b>Act II. Compromise</b> <a href="https://pvs-studio.com/en/blog/posts/1162/">Read</a>
+  <li><b>Act II. Compromise </b> <a href="https://pvs-studio.com/en/blog/posts/1162/">Read</a>
  </ul>
 </div>
 
