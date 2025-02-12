@@ -2,6 +2,8 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **Distributed build of Unreal Engine projects with Horde and UBA** [Read](https://pvs-studio.com/en/blog/posts/1220/)
+
 📃 Article: **Grandma's recipe for mastering regular static analysis** [Read](https://pvs-studio.com/en/blog/posts/1218/)
 
 📃 Article: **History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++** [Read](https://pvs-studio.com/en/blog/posts/cpp/1189/)
