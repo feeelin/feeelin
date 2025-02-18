@@ -2,11 +2,18 @@
  🔥 Latest updates 
 </h1>
 
+<div>
+ 📃 Article series: <b>History of C and C++</b><br>
+ <ul>
+  <li><b>Part one: emergence and standardization of C language. C with Classes becomes C++</b> <a href="https://pvs-studio.com/en/blog/posts/1189/">Read</a>
+  <li><b>Part two: Standardization of C and C++, Qt, Clang, and Unreal Engine</b> <a href="https://pvs-studio.com/en/blog/posts/1224/">Read</a>
+ </ul>
+</div>
+
 📃 Article: **Distributed build of Unreal Engine projects with Horde and UBA** [Read](https://pvs-studio.com/en/blog/posts/1220/)
 
 📃 Article: **Grandma's recipe for mastering regular static analysis** [Read](https://pvs-studio.com/en/blog/posts/1218/)
 
-📃 Article: **History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++** [Read](https://pvs-studio.com/en/blog/posts/cpp/1189/)
 <div>
  📃 Article series: <b>Clean code: blessing or curse?</b><br>
  <ul>
