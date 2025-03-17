@@ -2,6 +2,8 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
+
 <div>
  📃 Article series: <b>History of C and C++</b><br>
  <ul>
