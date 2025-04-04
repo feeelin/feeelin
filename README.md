@@ -1,6 +1,7 @@
 <h1>
  🔥 Latest updates 
 </h1>
+📃 Article: **PowerShell: new features, same old bugs** [Read](https://pvs-studio.com/en/blog/posts/csharp/1243/)
 
 📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
 
