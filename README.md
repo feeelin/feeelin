@@ -7,10 +7,11 @@
 📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
 
 <div>
- 📃 Article series: <b>History of C and C++</b><br>
+ 📃 Article series: <b>History of programming languages</b>
  <ul>
-  <li><b>Part one: emergence and standardization of C language. C with Classes becomes C++</b> <a href="https://pvs-studio.com/en/blog/posts/1189/">Read</a>
-  <li><b>Part two: Standardization of C and C++, Qt, Clang, and Unreal Engine</b> <a href="https://pvs-studio.com/en/blog/posts/1224/">Read</a>
+  <li><b>History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++</b> <a href="https://pvs-studio.com/en/blog/posts/1189/">Read</a>
+  <li><b>History of C and C++. Part two: Standardization of C and C++, Qt, Clang, and Unreal Engine</b> <a href="https://pvs-studio.com/en/blog/posts/1224/">Read</a>
+  <li><b>History of C#: versions, .NET, Unity, Blazor, and MAUI</b> <a href="https://pvs-studio.com/en/blog/posts/csharp/1248/">Read</a>
  </ul>
 </div>
 
