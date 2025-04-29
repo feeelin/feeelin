@@ -2,10 +2,6 @@
  🔥 Latest updates 
 </h1>
 
-📃 Article: **PowerShell: new features, same old bugs** [Read](https://pvs-studio.com/en/blog/posts/csharp/1243/)
-
-📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
-
 <div>
  📃 Article series: <b>History of programming languages</b>
  <ul>
@@ -14,6 +10,10 @@
   <li><b>History of C#: versions, .NET, Unity, Blazor, and MAUI</b> <a href="https://pvs-studio.com/en/blog/posts/csharp/1248/">Read</a>
  </ul>
 </div>
+
+📃 Article: **PowerShell: new features, same old bugs** [Read](https://pvs-studio.com/en/blog/posts/csharp/1243/)
+
+📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
 
 📃 Article: **Distributed build of Unreal Engine projects with Horde and UBA** [Read](https://pvs-studio.com/en/blog/posts/1220/)
 
