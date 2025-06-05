@@ -2,6 +2,8 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **How NASA got the planet's source code wrong** [Read](https://pvs-studio.com/en/blog/posts/java/1253/)
+
 <div>
  📃 Article series: <b>History of programming languages</b>
  <ul>
