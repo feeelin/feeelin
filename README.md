@@ -2,8 +2,6 @@
  🔥 Latest updates 
 </h1>
 
-📃 Article: **How NASA got the planet's source code wrong** [Read](https://pvs-studio.com/en/blog/posts/java/1253/)
-
 <div>
  📃 Article series: <b>History of programming languages</b>
  <ul>
@@ -13,6 +11,8 @@
   <li><b>History of Java: evolution, legal battles with Microsoft, Mars exploration, Spring, Gradle and Maven, IDEA and Eclipse</b> <a href="https://pvs-studio.com/en/blog/posts/java/1256/">Read</a>
  </ul>
 </div>
+
+📃 Article: **How NASA got the planet's source code wrong** [Read](https://pvs-studio.com/en/blog/posts/java/1253/)
 
 📃 Article: **PowerShell: new features, same old bugs** [Read](https://pvs-studio.com/en/blog/posts/csharp/1243/)
 
