@@ -2,6 +2,8 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **Static analysis for pull requests. Another step towards regularity** [Read](https://pvs-studio.com/en/blog/posts/1264/)
+
 <div>
  📃 Article series: <b>History of programming languages</b>
  <ul>
