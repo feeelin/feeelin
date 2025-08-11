@@ -2,13 +2,15 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **Seamless static analysis integration and overcoming false positives** [Read](https://pvs-studio.com/en/blog/posts/1272/)
+
 📃 Article: **Static analysis for pull requests. Another step towards regularity** [Read](https://pvs-studio.com/en/blog/posts/1264/)
 
 <div>
  📃 Article series: <b>History of programming languages</b>
  <ul>
-  <li><b>History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++</b> <a href="https://pvs-studio.com/en/blog/posts/1189/">Read</a>
-  <li><b>History of C and C++. Part two: Standardization of C and C++, Qt, Clang, and Unreal Engine</b> <a href="https://pvs-studio.com/en/blog/posts/1224/">Read</a>
+  <li><b>History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++</b> <a href="https://pvs-studio.com/en/blog/posts/cpp/1189/">Read</a>
+  <li><b>History of C and C++. Part two: Standardization of C and C++, Qt, Clang, and Unreal Engine</b> <a href="https://pvs-studio.com/en/blog/posts/cpp/1224/">Read</a>
   <li><b>History of C#: versions, .NET, Unity, Blazor, and MAUI</b> <a href="https://pvs-studio.com/en/blog/posts/csharp/1248/">Read</a>
   <li><b>History of Java: evolution, legal battles with Microsoft, Mars exploration, Spring, Gradle and Maven, IDEA and Eclipse</b> <a href="https://pvs-studio.com/en/blog/posts/java/1256/">Read</a>
  </ul>
