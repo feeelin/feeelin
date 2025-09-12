@@ -2,6 +2,10 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **Use PVS-Studio to analyze open-source projects** [Read](https://pvs-studio.com/en/blog/posts/1283/)
+
+📃 Article: **Bugs wear data. Let's check Apache NiFi** [Read](https://pvs-studio.com/en/blog/posts/java/1285/)
+
 📃 Article: **Seamless static analysis integration and overcoming false positives** [Read](https://pvs-studio.com/en/blog/posts/1272/)
 
 📃 Article: **Static analysis for pull requests. Another step towards regularity** [Read](https://pvs-studio.com/en/blog/posts/1264/)
