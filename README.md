@@ -2,13 +2,20 @@
  🔥 Latest updates 
 </h1>
 
+<div>
+ 📃 Article series: <b>Regular static analysis</b>
+ <ul>
+  <li><b>Grandma's recipe for mastering regular static analysis</b> <a href="https://pvs-studio.com/en/blog/posts/1218/">Read</a>
+  <li><b>Static analysis for pull requests. Another step towards regularity</b> <a href="https://pvs-studio.com/en/blog/posts/1264/">Read</a>
+  <li><b>How to manage static analysis results</b> <a href="https://pvs-studio.com/en/blog/posts/1293/">Read</a>
+ </ul>
+</div>
+
 📃 Article: **Use PVS-Studio to analyze open-source projects** [Read](https://pvs-studio.com/en/blog/posts/1283/)
 
 📃 Article: **Bugs wear data. Let's check Apache NiFi** [Read](https://pvs-studio.com/en/blog/posts/java/1285/)
 
 📃 Article: **Seamless static analysis integration and overcoming false positives** [Read](https://pvs-studio.com/en/blog/posts/1272/)
-
-📃 Article: **Static analysis for pull requests. Another step towards regularity** [Read](https://pvs-studio.com/en/blog/posts/1264/)
 
 <div>
  📃 Article series: <b>History of programming languages</b>
@@ -27,8 +34,6 @@
 📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
 
 📃 Article: **Distributed build of Unreal Engine projects with Horde and UBA** [Read](https://pvs-studio.com/en/blog/posts/1220/)
-
-📃 Article: **Grandma's recipe for mastering regular static analysis** [Read](https://pvs-studio.com/en/blog/posts/1218/)
 
 <div>
  📃 Article series: <b>Clean code: blessing or curse?</b><br>
