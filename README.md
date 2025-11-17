@@ -2,6 +2,8 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **JavaScript failed your tests** [Read](https://pvs-studio.com/en/blog/posts/1309/)
+
 <div>
  📃 Article series: <b>Regular static analysis</b>
  <ul>
