@@ -2,6 +2,8 @@
  🔥 Latest updates 
 </h1>
 
+📃 Article: **Bugs across the world's languages. Let's check LanguageTool** [Read](https://pvs-studio.com/en/blog/posts/java/1322/)
+
 📃 Article: **JavaScript failed your tests** [Read](https://pvs-studio.com/en/blog/posts/1309/)
 
 <div>
