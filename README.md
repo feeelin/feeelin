@@ -1,74 +1,16 @@
-<h1>
- 🔥 Latest updates 
-</h1>
+### About Me
 
-📃 Article: **Bugs across the world's languages. Let's check LanguageTool** [Read](https://pvs-studio.com/en/blog/posts/java/1322/)
+- Develop and maintain product integrations at PVS-Studio, ranging from IDEs to CI/CD systems, for more than 2 years
+- Regularly speak at conferences, meetups, and webinars
+- Write articles, documentation, and other technical content
+- Mentored several cohorts of beginner Python developers
 
-📃 Article: **JavaScript failed your tests** [Read](https://pvs-studio.com/en/blog/posts/1309/)
+### Links
 
-<div>
- 📃 Article series: <b>Regular static analysis</b>
- <ul>
-  <li><b>Grandma's recipe for mastering regular static analysis</b> <a href="https://pvs-studio.com/en/blog/posts/1218/">Read</a>
-  <li><b>Static analysis for pull requests. Another step towards regularity</b> <a href="https://pvs-studio.com/en/blog/posts/1264/">Read</a>
-  <li><b>How to manage static analysis results</b> <a href="https://pvs-studio.com/en/blog/posts/1293/">Read</a>
- </ul>
-</div>
+ <a href="https://pvs-studio.com/en/blog/?author=valerii-filatov"><img src="https://img.shields.io/badge/Articles-000000?style=flat&logo=readdotcv&logoColor=white" /></a> 
+ <a href="http://linkedin.com/in/valerii-filatov-35857032a"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" /></a> </p>
 
-📃 Article: **Use PVS-Studio to analyze open-source projects** [Read](https://pvs-studio.com/en/blog/posts/1283/)
+### Stack & Tools
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" /> </p>
+</p>
 
-📃 Article: **Bugs wear data. Let's check Apache NiFi** [Read](https://pvs-studio.com/en/blog/posts/java/1285/)
-
-📃 Article: **Seamless static analysis integration and overcoming false positives** [Read](https://pvs-studio.com/en/blog/posts/1272/)
-
-<div>
- 📃 Article series: <b>History of programming languages</b>
- <ul>
-  <li><b>History of C and C++. Part one: emergence and standardization of C language. C with Classes becomes C++</b> <a href="https://pvs-studio.com/en/blog/posts/cpp/1189/">Read</a>
-  <li><b>History of C and C++. Part two: Standardization of C and C++, Qt, Clang, and Unreal Engine</b> <a href="https://pvs-studio.com/en/blog/posts/cpp/1224/">Read</a>
-  <li><b>History of C#: versions, .NET, Unity, Blazor, and MAUI</b> <a href="https://pvs-studio.com/en/blog/posts/csharp/1248/">Read</a>
-  <li><b>History of Java: evolution, legal battles with Microsoft, Mars exploration, Spring, Gradle and Maven, IDEA and Eclipse</b> <a href="https://pvs-studio.com/en/blog/posts/java/1256/">Read</a>
- </ul>
-</div>
-
-📃 Article: **How NASA got the planet's source code wrong** [Read](https://pvs-studio.com/en/blog/posts/java/1253/)
-
-📃 Article: **PowerShell: new features, same old bugs** [Read](https://pvs-studio.com/en/blog/posts/csharp/1243/)
-
-📃 Article: **Dirty code: trusted keeper of errors. Broken windows theory** [Read](https://pvs-studio.com/en/blog/posts/1237/)
-
-📃 Article: **Distributed build of Unreal Engine projects with Horde and UBA** [Read](https://pvs-studio.com/en/blog/posts/1220/)
-
-<div>
- 📃 Article series: <b>Clean code: blessing or curse?</b><br>
- <ul>
-  <li><b>Act I. Confrontation</b> <a href="https://pvs-studio.com/en/blog/posts/1157/">Read</a>
-  <li><b>Act II. Compromise </b> <a href="https://pvs-studio.com/en/blog/posts/1162/">Read</a>
- </ul>
-</div>
-
-📃 Article: **Authorization pitfalls: what does Keycloak cloak?** [Read](https://pvs-studio.com/en/blog/posts/java/1142/)
-
-📃 Article: **CodeChecker—code quality control using PVS-Studio** [Read](https://pvs-studio.com/en/blog/posts/1197/)
-
-📃 Article: **Get me two! PVS-Studio plugin update for SonarQube** [Read](https://pvs-studio.com/en/blog/posts/1152/)
-
-
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feeelin&theme=dark&hide_border=true&card_width=490)](https://git.io/streak-stats)
-
-
-
-**feeelin/feeelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently lea![react](https://github.com/feeelin/feeelin/assets/115320882/2cc17374-e3e1-4ae5-ba9d-1d43b61b6f17)
-rning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
