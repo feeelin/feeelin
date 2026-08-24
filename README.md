@@ -1,6 +1,6 @@
 ### About Me
 
-- Develop and maintain product integrations at PVS-Studio, ranging from IDEs to CI/CD systems, for more than 2 years
+- Develop and maintain product integrations, ranging from IDEs to CI/CD systems
 - Regularly speak at conferences, meetups, and webinars
 - Write articles, documentation, and other technical content
 - Mentored several cohorts of beginner Python developers
